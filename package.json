@@ -40,7 +40,7 @@
         "jimp": "",
         "lyrics-finder": "^21.7.0",
         "minimist": "",
-        "moment": "^2.29.1",
+        "moment": "^2.29.4",
         "moment-timezone": "",
         "ms": "",
         "node-fetch": "^3.2.0",
