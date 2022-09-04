@@ -1,0 +1,68 @@
+[
+    {
+        "Name": "Dân Làng",
+        "Type": "Dân",
+        "Description": "Dân làng chiếm đại đa số trong các nhân vật và nhiệm vụ của dân làng là làm sao chỉ ra được ai là Ma sói đang đội lốt người dân để mang sói đi treo cổ. Người dân ngủ vào Ban Đêm và thức dậy vào Ban ngày để thảo luận. Người dân có nhiều thời gian để đưa ra suy luận, phán đoán trước khi đưa ra lựa chọn sau cùng. Sẽ bị chết nếu bị Ma sói cắn trúng vào Ban Đêm.",
+        "File": "/cache/DangLang.png"
+    },
+    {
+        "Name": "Tiên Tri",
+        "Type": "Dân",
+        "Description": "Vào Ban Đêm, Tiên tri sẽ được Quản trò gọi dậy và  có quyền đoán trước ai là Ma sói bằng cách chỉ tay vào một người chơi. Nếu đúng, người Quản trò sẽ gật đầu hoặc giơ tay đồng ý, nếu không phải Quản trò sẽ lắc đầu. Nhiệm vụ của Tiên tri là phải ra mặt đúng lúc, dùng lập luận hướng dân làng tìm ra Ma sói. Sẽ bị chết nếu bị Ma sói cắn trúng.",
+        "File": "/cache/TienTri.png"
+    },
+    {
+        "Name": "Bảo Vệ",
+        "Type": "Dân",
+        "Description": "Mỗi đêm Quản trò sẽ gọi Bảo vệ dậy. Nhiệm vụ của Bảo vệ là lựa 1 chọn người để cứu, Bảo vệ có thể chọn tự cứu mình. Người được Bảo vệ cứu nếu như bị Ma sói cắn thì vẫn sẽ sống sót vào sáng hôm sau. Nhưng Bảo vệ không được cứu 1 người liên tiếp 2 lượt chơi. Lưu ý: Người được bảo vệ vẫn có thể chết do bị Phù Thủy đầu độc.",
+        "File": "/cache/BaoVe.png"
+    },
+    {
+        "Name": "Thợ Săn",
+        "Type": "Dân",
+        "Description": "Mỗi đêm, Thợ săn cũng sẽ được gọi dậy và chọn 1 người chơi để 'bắn'. Trong trường hợp Thợ săn bị Ma sói cắn chết, người được Thợ săn lựa chọn cũng sẽ chết theo.  Nếu người mà Thợ Săn chọn chết trong đêm thì Thợ Săn sẽ không chết theo. Nếu Thợ săn bị treo cổ vào ban ngày thì có quyền chọn 1 người để cùng bị treo cổ chung.",
+        "File": "/cache/ThoSan.png"
+    },
+    {
+        "Name": "Phù Thủy",
+        "Type": "Dân",
+        "Description": "Nhân vật này sở hữu 2 lọ thuốc, 1 lọ dùng cứu người và 1 lọ dùng để giết người. Ban đêm, Phù Thủy được gọi dậy và Quản trò sẽ chỉ ra ai là người bị Ma sói cắn, Phù Thủy có quyền chọn cứu người đó hoặc không. Ngoài ra, Phù thủy có thể dùng lọ thuốc độc để giết chết người mà mình nghi là Ma sói.\n\nCó thể sử dụng 1 lúc cả 2 lọ thuốc, khi đó tác dụng của thuốc sẽ mất. Một khi đã dùng bình thì Phù Thủy sẽ mất đi chức năng tương ứng, tuy nhiên vẫn được gọi dậy mỗi đêm và biết ai chết.",
+        "File": "/cache/PhuThuy.png"
+    },
+    {
+        "Name": "Cupid: Thần tình yêu",
+        "Type": "Dân",
+        "Description": "Có chức năng ghép đôi 2 người bất kỳ với nhau. Đầu mỗi ván chơi, Cupid sẽ được gọi dậy và chọn ra hai người yêu nhau. Cupid sau đó nhắm mắt lại và hai người yêu nhau sẽ được Quản Trò gọi dậy để biết mặt và Vai Trò của nhau. Nếu hai người thuộc hai phe khác nhau (Sói vs Dân) thì họ thành phe thứ 3 với nhiệm vụ là hai người cuối cùng sống sót.Trong trường hợp, có 1 trong 2 người được ghép đôi bị chết thì người còn lại cũng phải chết chung. Thần tình yêu có thể tự ghép đôi cho chính mình.",
+        "File": "/cache/Cupid.png"
+    },
+    {
+        "Name": "Già Làng",
+        "Type": "Dân",
+        "Description": "Đây có thể coi là Trùm cuối ở phe Dân làng và mọi người phải ra sức bảo vệ nhân vật này. Già Làng có hai mạng khi bị Ma sói cắn. Tuy nhiên, nếu bị treo cổ, bị Thợ Săn bắn hoặc bị Phù Thủy giết thì Già Làng vẫn chết ngay lập tức. Khi Già Làng chết, tất cả các vai trò đặc biệt trừ Thợ Săn đều bị mất chức năng.",
+        "File": "/cache/GiaLang.png"
+    },
+    {
+        "Name": "Cô Bé",
+        "Type": "Dân",
+        "Description": "Đây là một quân bài rất quan trọng. Người chơi này sẽ phát huy được chức năng của mình trong đêm thứ hai kể từ khi trò chơi bắt đầu. Quản trò sẽ gọi sói dậy, cô gái có quyền mắt hí để nhận biết xem ai là sói. Nhưng phải thật khéo léo vì nếu để sói phát hiện ra sói sẽ giết chết bạn ngay.",
+        "File": "/cache/CoBe.png"
+    },
+    {
+        "Name": "Cảnh sát trưởng",
+        "Type": "Dân",
+        "Description": "Bất kì người chơi nào cũng có thể nhận được lá bài này ngoài lá bài hiện tại họ đang giữ. Cảnh sát trưởng được chọn nhờ vào sự bỏ phiếu của mọi người. Khi mọi người bỏ phiếu treo giàn thì phiếu của Cảnh sát trưởng sẽ được tính là 2 phiếu thay vì 1. Nếu Cảnh sát trưởng chết, người chơi đó có quyền chuyển quyền làm Cảnh sát trưởng cho bất kì ai.",
+        "File": "/cache/CanhSatTruong.png"
+    },
+    {
+        "Name": "Sói thường",
+        "Type": "Ma Sói",
+        "Description": "Phe ma sói nắm giữ 4 lá bài Sói thường. Người chọn trúng lá bài là Sói thường có nhiệm vụ mỗi đêm sẽ được gọi dậy bởi Quản trò và làm thịt 1 người dân. Điểm thú vị chính là ma sói có thể chọn không cắn ai hoặc tự tàn sát lẫn nhau.",
+        "File": "/cache/SoiThuong.png"
+    },
+    {
+        "Name": "Sói con",
+        "Type": "Ma Sói",
+        "Description": "Giống Sói thường, nhưng khi Sói con chết, đêm hôm sau Sói sẽ được cắn hai người liên tục.",
+        "File": "/cache/SoiCon.png"
+    }
+]

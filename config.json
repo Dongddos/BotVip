@@ -1,0 +1,345 @@
+{
+    "language": "vi",
+    "keyActive": "",
+    "DeveloperMode": false,
+    "autoCreateDB": true,
+    "allowInbox": true,
+    "autoClean": true,
+    "adminOnly": false,
+    "spadmOnly": false,
+    "duyetbox": false,
+    "ibrieng": true,
+    "dangky": false,
+    "BOT": true,
+    "commandDisabled": [
+        "thongbao.js",
+        "autoban.js",
+        "flop.js",
+        "autoreset.js",
+        "thathinh.js",
+        "help2.js",
+        "anti.js",
+        "anti.js",
+        "taglientuc.js",
+        "pantiesclose.js"
+    ],
+    "eventDisabled": [
+        ""
+    ],
+    "EMAIL": "",
+    "PASSWORD": "",
+    "OTPKEY": "",
+    "BOTNAME": "𝐍 𝐄 𝐀 𝐋 𝐀 - 𝐁 𝐎 𝐓",
+    "PREFIX": ".",
+    "ADMINBOT": [
+        "100044997840433"
+    ],
+    "ADMINBOT1": [
+        "100032291174396"
+    ],
+    "SUPERADMIN": [],
+    "DATABASE": {
+        "sqlite": {
+            "storage": "data.sqlite"
+        }
+    },
+    "APPSTATEPATH": "fbstate.json",
+    "FCAOption": {
+        "forceLogin": true,
+        "listenEvents": true,
+        "pauseLog": true,
+        "logLevel": "error",
+        "selfListen": true,
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36"
+    },
+    "version": "1.2.14",
+    "banner": {
+        "APIKEY": "ntkhang"
+    },
+    "banner2": {
+        "APIKEY": "ntkhang"
+    },
+    "bannerbw": {
+        "APIKEY": "ntkhang"
+    },
+    "caesar": {
+        "caeserPassword": "266303"
+    },
+    "cave": {
+        "cooldownTime": 2000000
+    },
+    "daily": {
+        "cooldownTime": 43200000,
+        "rewardCoin": 200,
+        "rewardExp": 1000,
+        "rewardUsages": 100
+    },
+    "diemdanh": {
+        "cooldownTime": 3000000
+    },
+    "fb": {
+        "API_KEY": "keypremium_miraiv2"
+    },
+    "fbcover1": {
+        "APIKEY": "DUYNGU--SHIRON"
+    },
+    "fbs": {
+        "APIKEY": "filebot"
+    },
+    "gif": {
+        "TENOR": "73YIAOY3ACT1"
+    },
+    "help": {
+        "autoUnsend": true,
+        "delayUnsend": 10
+    },
+    "instagram": {
+        "APIKEY": "81b0466275mshb5265735e50299cp1b01c5jsn3e7f93112fd3"
+    },
+    "mail10pv2": {
+        "APIKEY": "chinhdz"
+    },
+    "math": {
+        "WOLFRAM": "T8J8YV-H265UQ762K"
+    },
+    "menu": {
+        "autoUnsend": true,
+        "delayUnsend": 55
+    },
+    "mungtuoi": {
+        "cooldownTime": 1200000
+    },
+    "pokemon": {
+        "APIKEY": ""
+    },
+    "rankup": {
+        "autoUnsend": true,
+        "unsendMessageAfter": 5
+    },
+    "rname": {
+        "APIKEY": "mi451266190"
+    },
+    "sauce": {
+        "SAUCENAO_API": "29be078b8f5239a1202742869f92c25955bdcab3"
+    },
+    "shortlink": {
+        "bitlyAPI": "150ef1bc3af86500796d645c86f56766e4802566"
+    },
+    "sim": {
+        "APIKEY": "API-1234-abcd-1234-abcd"
+    },
+    "sing": {
+        "YOUTUBE_API": "AIzaSyCQZtO1yH8cuMIfXtnQuS3ujf9cfn388yo",
+        "SOUNDCLOUD_API": "M4TSyS6eV0AcMynXkA3qQASGcOFQTWub"
+    },
+    "subnautica": {
+        "APIKEY": ""
+    },
+    "surprise": {
+        "log": true,
+        "out": "",
+        "kickAll": "",
+        "delThread": ""
+    },
+    "thamngan": {
+        "cooldownTime": 1200000
+    },
+    "tiks": {
+        "API_KEY": "mzkVip_LawerTeam"
+    },
+    "weather": {
+        "OPEN_WEATHER": "c4ef85b93982d6627681b056e24bd438"
+    },
+    "work": {
+        "cooldownTime": 1200000
+    },
+    "xidach": {
+        "maxPlayers": 3,
+        "normalWinBonus": 1,
+        "superWinBonus": 2,
+        "epicWinBonus": 4
+    },
+    "zwar": {
+        "cooldownTime": 1200000
+    },
+    "adminUpdate": {
+        "autoUnsend": true,
+        "sendNoti": true,
+        "timeToUnsend": 10
+    },
+    "log": {
+        "enable": true
+    },
+    "nhanluot": {
+        "cooldownTime": 21600000,
+        "rewardCoin": 10000
+    },
+    "thongbao": {
+        "autoUnsend": true,
+        "delayUnsend": 55
+    },
+    "duaxe": {
+        "key": "cuongngu"
+    },
+    "daily..": {
+        "cooldownTime": 432000000000000000,
+        "rewardCoin": 200
+    },
+    "working": {
+        "cooldownTime": 1200000
+    },
+    "bank": {
+        "APIKEY": "chinhdz"
+    },
+    "hunter": {
+        "userToken": "D7tTFhgD",
+        "adminToken": "ZkSy3UsT"
+    },
+    "talt": {
+        "APIKEY": "chinhle"
+    },
+    "audio": {
+        "YOUTUBE_API": "AIzaSyA3ExvIgr8Flog0ZXOR5bHGNfRyu9FTn4k"
+    },
+    "audio2": {
+        "API_KEY": "mzkVip_LawerTeam"
+    },
+    "banks": {
+        "APIKEY": "chinhdz"
+    },
+    "coverfb": {
+        "APIKEY": "chinhdz"
+    },
+    "danhsach": {
+        "autoUnsend": true,
+        "delayUnsend": 120
+    },
+    "help2": {
+        "autoUnsend": true,
+        "delayUnsend": 60
+    },
+    "hitbutt": {
+        "APIKEY": ""
+    },
+    "igdlvideo": {
+        "API_KEY": "mzkFree_722124509AC10"
+    },
+    "img": {
+        "APIKEY": ""
+    },
+    "linkword": {
+        "APIKEY": ""
+    },
+    "mail10p": {
+        "APIKEY": "chinhdz"
+    },
+    "mp3": {
+        "API_KEY": "mzkVip_LawerTeam"
+    },
+    "nameJP": {
+        "APIKEY": "mi451266190"
+    },
+    "nhac": {
+        "ManhG_KEY": "mzkVip_LawerTeam"
+    },
+    "noitu": {
+        "APIKEY": "MEWaG9hbmduZ3V5ZW4yOTEwO2hvYW5nZG9naWFuZ3V5ZW52cGJxQG"
+    },
+    "poketest": {
+        "APIKEY": "chinhdz"
+    },
+    "pinteres": {
+        "APIKEY": "chinhdz"
+    },
+    "reactToRemoveMsg": {
+        "react": "❤"
+    },
+    "scdl": {
+        "API_KEY": "mzkVip_LawerTeam"
+    },
+    "sim3": {
+        "APIKEY": "mzkVip_Simsimi"
+    },
+    "sing2": {
+        "YOUTUBE_API": "AIzaSyA7QfBlpDC49lDIkA5s5Y_XV0WHwNbyUKg"
+    },
+    "singg": {
+        "API_KEY": "KeyTest_3Days"
+    },
+    "singmk": {
+        "API_KEY": "mzkVip_LawerTeam"
+    },
+    "singv1": {
+        "API_KEY": "mzkVip_LawerTeam"
+    },
+    "singv2": {
+        "API_KEY": "mzkVip_LawerTeam"
+    },
+    "slap": {
+        "APIKEY": ""
+    },
+    "sortword": {
+        "APIKEY": ""
+    },
+    "tiktok": {
+        "API_KEY": "mzkVip_LawerTeam"
+    },
+    "tlt": {
+        "APIKEY": "chinhle"
+    },
+    "twittermp3": {
+        "API_KEY": "mzkVip_LawerTeam"
+    },
+    "twittervideo": {
+        "API_KEY": "mzkVip_LawerTeam"
+    },
+    "video": {
+        "API_KEY": "mzkVip_LawerTeam"
+    },
+    "videotiktok": {
+        "APIKEY": "a012e05802msh4ce48bff26d5c0ap151d85jsn4edde7f89de0"
+    },
+    "video2": {
+        "API_KEY": "mzkVip_LawerTeam"
+    },
+    "voice": {
+        "zalo_apikey": "eSD0MYcnDuTEtHboThCItqRmi5sYVDw0",
+        "fpt_apikey": "9sCFuesZZuTbeWY0EMHGeqSEEcu41BFq"
+    },
+    "youtube": {
+        "TENOR": "73YIAOY3ACT1"
+    },
+    "ytb2mp3": {
+        "YOUTUBE_API": "AIzaSyA25_Ne0gD1DeciKIM8PzZBLvQ0MgGRlr0"
+    },
+    "ytbmp3": {
+        "YOUTUBE_API": "AIzaSyDgspOs5o4p7Q9CEneUckEfGAQB0W7Ka20"
+    },
+    "baolixi": {
+        "cooldownTime": 1200000
+    },
+    "ifb": {
+        "key": "leanhtruong_lhe9xN6Rtd5Osu3oiR0q",
+        "token": "6628568379%7Cc1e620fa708a1d5696fb991c1bde5662"
+    },
+    "keobov2": {
+        "key": "sen12345"
+    },
+    "loto": {
+        "maxPlayers": 10,
+        "getDelay": 8
+    },
+    "sing3": {
+        "YOUTUBE_API": "AIzaSyDEE1-zZSRVI8lTaQOVsIAQFgL-_BJKvhk"
+    },
+    "sing4": {
+        "YOUTUBE_API": "AIzaSyB6pTkV2PM7yLVayhnjDSIM0cE_MbEtuvo"
+    },
+    "ytbmp4": {
+        "YOUTUBE_API": "AIzaSyCjp5YPl8C5px85e8lS-dku5x08fKgBpKo"
+    },
+    "test1231": {
+        "autoUnsend": true,
+        "delayUnsend": 60
+    }
+}
